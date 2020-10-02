@@ -1,0 +1,3 @@
+# twitter_food_quality
+Hi there...
+The objective of this project is to mine data from Twitter to check for the impact of COVID-19 on the availability of nutritious food in Africa particularly in Nigeria, Kenya and South Africa.
